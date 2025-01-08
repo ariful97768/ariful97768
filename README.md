@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a React Frontend Developer</p>
+<h4 align="left">I'm a React Frontend Developer</h4>
 
 ###
 
