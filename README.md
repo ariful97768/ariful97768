@@ -69,20 +69,27 @@
 <img src="https://raw.githubusercontent.com/ariful97768/ariful97768/output/snake.svg" alt="Snake animation" />
 
 ###
-### 🔗 Connect with Me
 
-- [Facebook](https://www.facebook.com/)  
-- [Dev.to](https://dev.to/ariful9776)  
-- [Stack Overflow](https://stackoverflow.com/users/28558589/ariful-islam)  
-- [GitHub](https://github.com/ariful97768)  
-- [LinkedIn](https://www.linkedin.com/in/arifulxf)  
+<h3 align="left">📬Contact</h3>
 
----
+###
 
-### 📬 Contact
+<div align="left">
+  <a href="https://www.linkedin.com/in/arifulxf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:arifulxf@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100054997235096" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/8801313169776?text=Hi%20Ariful,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-- WhatsApp: [+880 1313169776](https://wa.me/8801313169776?text=Hi%20Ariful,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!)  
-- Email: arifulxf@gmail.com  
+###
 
 ---
 
