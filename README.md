@@ -18,7 +18,7 @@ Passionate about crafting beautiful and functional web applications using modern
 - **Frontend:** HTML5, CSS3, React, Tailwind, Vite  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-
+- **Other Tools:** Firebase Authentication.
 ---
 
 ### 🌟 Projects
