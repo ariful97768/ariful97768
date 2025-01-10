@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Hi 👋! This is Ariful.</h2>
+<h1 align="left">Hi 👋! This is Ariful.</h1>
 
 ###
 
-<h4 align="left">I'm a React Frontend Developer</h4>
+<h2 align="left">I'm a React Frontend Developer</h2>
 
 ###
 
