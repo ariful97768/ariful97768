@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Frontend Developer | MERN Stack Developer</h3>
+<h3 align="left">👨‍💻 MERN Stack Developer | Frontend Focused</h3>
 
 ###
 
