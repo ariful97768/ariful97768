@@ -4,28 +4,31 @@
 
 ###
 
-<h1 align="left">Hi, I'm Ariful Islam! 👋</h1>
+## 👋 Hi, I'm **Ariful Islam**!
 
 ###
 
-<h3 align="left">👨‍💻 MERN Stack Developer | Frontend Focused</h3>
+### 👨‍💻 MERN Stack Developer | Frontend Focused
 
 ###
 
-<p align="left">Passionate about crafting beautiful and functional web applications using modern technologies. Constantly learning and building cool stuff. 🚀</p>
+Passionate about crafting beautiful and functional web applications using modern technologies. Constantly learning and building cool stuff. 🚀
 
 ###
 
-<p align="left">✨ Crafting user experiences since 2023  <br>📚 Currently learning advanced backend with Node.js & MongoDB  <br>🎯 Goals: Master MERN stack & contribute to open-source projects  <br>🎲 Fun fact: I love working with React because it’s like building with LEGO piece by piece, everything fits perfectly!</p>
+### 🚀 Currently Working On
+- Enhancing backend skills with Node.js & MongoDB
+- Building **Akademi** (Scholarship Management System)
+- Exploring Next.js for future projects
+- Open-source contributions in progress
 
 ###
 
-<h3 align="left">🛠️ Skills & Tools</h3>
+✨ Crafting user experiences since 2023  <br>📚 Currently learning advanced backend with Node.js & MongoDB  <br>🎯 Goals: Master MERN stack & contribute to open-source projects  <br>🎲 Fun fact: I love working with React because it’s like building with LEGO piece by piece, everything fits perfectly!
 
 ###
 
-<br clear="both">
-
+### 🛠️ Skills & Tools  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="20" />
@@ -52,28 +55,18 @@
 
 ###
 
-<h3 align="left">Some quick stats</h3>
-
-###
-
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariful97768&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful97768&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariful97768&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=ariful97768&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ariful97768/ariful97768/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">📬Contact</h3>
-
-###
-
+### 📬 Contact
 <div align="left">
   <a href="https://www.linkedin.com/in/arifulxf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -89,9 +82,6 @@
   </a>
 </div>
 
-###
-
 ---
 
-Feel free to explore my repositories and get in touch!
-
+Feel free to explore my repositories and get in touch! 🚀
