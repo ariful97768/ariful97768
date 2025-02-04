@@ -16,15 +16,14 @@ Passionate about crafting beautiful and functional web applications using modern
 
 ###
 
+✨ Crafting user experiences since 2023  <br>📚 Currently learning advanced backend with Node.js & MongoDB  <br>🎯 Goals: Master MERN stack & contribute to open-source projects  <br>🎲 Fun fact: I love working with React because it’s like building with LEGO piece by piece, everything fits perfectly!
+
+###
 ### 🚀 Currently Working On
 - Enhancing backend skills with Node.js & MongoDB
 - Building **Akademi** (Scholarship Management System)
 - Exploring Next.js for future projects
 - Open-source contributions in progress
-
-###
-
-✨ Crafting user experiences since 2023  <br>📚 Currently learning advanced backend with Node.js & MongoDB  <br>🎯 Goals: Master MERN stack & contribute to open-source projects  <br>🎲 Fun fact: I love working with React because it’s like building with LEGO piece by piece, everything fits perfectly!
 
 ###
 
