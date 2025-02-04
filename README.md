@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="256" src="https://i.ibb.co.com/m06tKhX/Blue-Corporate-Linkedin-Article-Cover-image.png"  />
-</div>
+
 
 ###
 
