@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co.com/mCkbkqG4/Blue-Corporate-Linkedin-Article-Cover-image.png" alt="Background image"  />
+![Background image](https://i.ibb.co/mCkbkqG4/Blue-Corporate-Linkedin-Article-Cover-image.png)
 
 ###
 
@@ -58,7 +58,7 @@ Passionate about crafting beautiful and functional web applications using modern
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful97768&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariful97768&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=ariful97768&theme=dracula" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=ariful97768&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 ###
