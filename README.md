@@ -1,4 +1,4 @@
-![Background image](https://i.ibb.co/mCkbkqG4/Blue-Corporate-Linkedin-Article-Cover-image.png)
+![Background image](https://i.ibb.co.com/SXvCCn91/Blue-Corporate-Linkedin-Article-Cover-image-2.png)
 
 ###
 
