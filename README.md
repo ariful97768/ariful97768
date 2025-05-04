@@ -6,7 +6,7 @@
 
 ###
 
-### 👨‍💻 MERN Stack Developer | Frontend Focused
+### 👨‍💻 MERN Stack Developer
 
 ###
 
