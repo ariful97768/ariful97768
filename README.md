@@ -14,19 +14,6 @@
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulxf@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B880%201313169776-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801313169776)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful97768)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariful97768)
-
-</div>
-
----
-
 ## 📌 About Me
 
 I'm a Full Stack Developer passionate about building scalable, user-friendly web applications. I specialize in the MERN stack and have a deep interest in creating seamless digital experiences with modern technologies. I love collaborating on projects, writing clean code, and continuously learning new tools and frameworks.
@@ -112,6 +99,19 @@ I'm a Full Stack Developer passionate about building scalable, user-friendly web
 **A MERN stack-based Scholarship Management System** with Firebase Auth, Stripe payments, and imgbb for image hosting. Features an Admin Dashboard for managing scholarships and applications, and a Moderator Dashboard for verification. Hosted on Vercel with a secure and scalable backend.
 
 **Tech Stack:** React.js | Node.js | MongoDB | Firebase | Stripe | Vercel | Imgbb
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulxf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Phone-%2B880%201313169776-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801313169776)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariful97768)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-axf) 
 
 </div>
 
