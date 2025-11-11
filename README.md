@@ -1,5 +1,7 @@
 <h1 align="center">
   <span>Hi 👋, I'm Ariful Islam.<span/>
+</h1>
+<h1 align="center">
   <span/>A Passionate Full Stack Developer from Sylhet, Bangladesh<span>
 </h1>
 
