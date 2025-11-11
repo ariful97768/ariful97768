@@ -1,8 +1,6 @@
-# Hi 👋, I'm Ariful Islam
-
 <div align="center">
   
-### A Passionate Full Stack Developer from Sylhet, Bangladesh 🇧🇩
+## Hi 👋, I'm Ariful Islam. A Passionate Full Stack Developer from Sylhet, Bangladesh 🇧🇩
 
 [![GitHub followers](https://img.shields.io/github/followers/ariful97768?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful97768)
 [![GitHub Stars](https://img.shields.io/github/stars/ariful97768?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ariful97768)
