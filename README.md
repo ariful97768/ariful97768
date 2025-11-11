@@ -1,6 +1,7 @@
-<div align="center">
-  # Hi 👋, I'm Ariful Islam. <br/> A Passionate Full Stack Developer from Sylhet, Bangladesh
-</div>
+<h1 align="center">
+  <span>Hi 👋, I'm Ariful Islam.<span/>
+  <span/>A Passionate Full Stack Developer from Sylhet, Bangladesh<span>
+</h1>
 
 <div align="center">
 
